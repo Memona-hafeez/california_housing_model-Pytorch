@@ -1,4 +1,4 @@
-##California Housing Classification using PyTorch##
+California Housing Classification using PyTorch
 
 
 Overview
