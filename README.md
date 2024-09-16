@@ -1,5 +1,9 @@
-California Housing Classification using PyTorch
+##California Housing Classification using PyTorch##
+
+
 Overview
+
+
 This project focuses on building a classification model using the California Housing dataset and PyTorch. The goal is to classify housing data based on specific attributes such as median income, location, and other key factors.
 
 Objectives
@@ -35,21 +39,6 @@ california_housing_model.pth: The saved model file after training.
 
 README.md: This documentation file explaining the project structure and process.
 
-How to Run
-
-Clone the repository.
-Install the required dependencies.
-Run the california_housing_classification.py file to start training and evaluating the model.
-bash
-
-Copy code
-python california_housing_classification.py
-To download the trained model, run the following code:
-python
-
-Copy code
-from google.colab import files
-files.download('california_housing_model.pth')
 
 Conclusion
 In this project, I applied classification techniques to the California Housing dataset using PyTorch. This helped me understand how to structure a neural network and handle real-world housing data. The results were visualized to show the classification performance, and the trained model was saved for future applications.
